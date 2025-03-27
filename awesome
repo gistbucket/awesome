@@ -3,7 +3,7 @@
 
 version="0.5.3"
 awesome_dir="$HOME/.local/share/awesome"
-bin_dir="$HOME/.local/share/bin"
+bin_dir="$HOME/.local/bin"
 
 myrealpath() {
     local LINK REALPATH
